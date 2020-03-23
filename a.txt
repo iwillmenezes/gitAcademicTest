@@ -6,5 +6,6 @@
 </head>
 <body>
 	<h2>Teste</h2>
+	<h2>Entendendo o Head</h2>
 </body>
 </html>
